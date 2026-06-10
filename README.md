@@ -1,7 +1,7 @@
 # 💫 About Me:
 B.Tech Computer Science graduate (May 2026) · CGPA 8.99 · Crescent Institute, Chennai
 
-I build full-stack web apps and ML-integrated systems — from REST APIs and database design 
+I build full-stack web apps and ML-integrated systems - from REST APIs and database design 
 to model training and production deployment. Currently open to full-time SDE, Backend, 
 or Full-Stack roles.
 
