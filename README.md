@@ -1,6 +1,15 @@
 # 💫 About Me:
-I am a passionate B.Tech CSE student with a strong interest in Data Science, Artificial Intelligence and Full Stack Development.  <br>I enjoy transforming raw data into meaningful insights and building intelligent systems that solve real-world problems.  <br>I love working on scalable applications, real-time systems, and AI-powered solutions.  <br>Currently, I am focused on improving my skills in ML, GenAI, and backend systems while building impactful projects.
+B.Tech Computer Science graduate (May 2026) · CGPA 8.99 · Crescent Institute, Chennai
 
+I build full-stack web apps and ML-integrated systems — from REST APIs and database design 
+to model training and production deployment. Currently open to full-time SDE, Backend, 
+or Full-Stack roles.
+
+- 🔭 Latest: ChainSight (Django + ML supply chain risk dashboard, live on Render)
+- 🌱 Currently grinding: DSA on LeetCode + exploring LLM/RAG applications  
+- 💬 Ask me about: Django REST Framework, Next.js, PostgreSQL, LangChain
+- 📫 Reach me: adityavinoddas@gmail.com
+- 🏆 Climatathon Finalist — NIT Raipur (UNICEF)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adikumar08) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adityavinoddas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavinoddas@gmail.com) 
